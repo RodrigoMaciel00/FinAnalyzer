@@ -1,0 +1,70 @@
+========================================
+          FinAnalyzer - Guia do Usuário
+========================================
+
+Bem-vindo ao FinAnalyzer! Este guia ajudará você a utilizar nosso sistema de análise financeira para coletar dados de ações, índices, ETFs e criptomoedas e visualizar indicadores técnicos.
+
+----------------------------------------
+1. COMO EXECUTAR O FINANALYZER
+----------------------------------------
+Certifique-se de que você tenha instalado todas as bibliotecas necessárias:
+- pandas
+- yfinance
+- matplotlib
+
+Execute o programa `main.py` usando sua IDE (PyCharm, VSCode, etc.) ou através do terminal com o comando:
+
+    python main.py
+
+----------------------------------------
+2. COMO USAR O FINANALYZER
+----------------------------------------
+Após executar o programa, você será solicitado a digitar o símbolo do ativo financeiro que deseja analisar.
+
+Exemplo de entrada:
+Digite o símbolo da ação (por exemplo, AAPL para Apple):
+
+----------------------------------------
+3. EXEMPLOS DE SÍMBOLOS PARA TESTES
+----------------------------------------
+
+🗂️ Ações:
+- Microsoft: MSFT
+- Amazon: AMZN
+- Google (Alphabet): GOOGL
+- Tesla: TSLA
+- Meta (Facebook): META
+- Netflix: NFLX
+- Nvidia: NVDA
+- Intel: INTC
+- Petrobras (Brasil): PBR
+- Vale (Brasil): VALE
+
+🗂️ ETFs e Índices:
+- SPDR S&P 500 ETF Trust: SPY
+- NASDAQ 100 ETF: QQQ
+- iShares MSCI Emerging Markets ETF: EEM
+- Vanguard Total Stock Market ETF: VTI
+- Índice Dow Jones: ^DJI
+- Índice NASDAQ: ^IXIC
+- Índice S&P 500: ^GSPC
+
+🗂️ Moedas e Criptomoedas:
+- Bitcoin: BTC-USD
+- Ethereum: ETH-USD
+- Euro/Dólar: EURUSD=X
+- Libra/Dólar: GBPUSD=X
+
+----------------------------------------
+4. O QUE FAZER SE ENCONTRAR ERROS
+----------------------------------------
+- Certifique-se de digitar o símbolo correto (por exemplo, "AAPL" em vez de "APPL").
+- Se o símbolo não retornar dados, é possível que o ativo esteja indisponível ou que o símbolo esteja incorreto.
+- Caso você veja uma mensagem indicando que nenhum dado foi encontrado, tente com outro símbolo.
+
+----------------------------------------
+5. COMO CONTRIBUIR
+----------------------------------------
+Sinta-se à vontade para contribuir com o projeto. Envie pull requests no repositório GitHub ou reporte problemas.
+
+Esperamos que você goste de usar o FinAnalyzer! 😊
