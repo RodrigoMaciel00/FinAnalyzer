@@ -17,5 +17,5 @@ O **FinAnalyzer** é um sistema de análise financeira que utiliza dados histór
 ## Como Usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/FinAnalyzer.git
+   git clone https://github.com/RodrigoMaciel00/FinAnalyzer.git
    cd FinAnalyzer
